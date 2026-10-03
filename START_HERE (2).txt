@@ -1,0 +1,41 @@
+AI BUSINESS V1 — START HERE
+
+This is the first working prototype of your business.
+
+WHAT YOU ARE BUILDING
+Commercial Project Watch:
+A $25 research report that finds newly filed Oklahoma City commercial projects
+that may create opportunities for commercial sign companies.
+
+THE BUSINESS FLOW
+1. AI caller contacts a prospect.
+2. Caller asks a short set of discovery questions.
+3. We identify whether the prospect has a useful problem.
+4. We research official OKC records.
+5. We verify the findings.
+6. Customer receives a $25 checkout/payment request.
+7. We deliver the report.
+8. Revenue is recorded.
+9. If they want another report, we automate more.
+
+IMPORTANT
+You do NOT need to open a ZIP file to start using this.
+Open the files in this folder with a text/code editor.
+
+IF YOU ARE USING A CHROMEBOOK
+1. Download this folder/file package.
+2. The easiest immediate option is to use a browser-based code editor such as Replit,
+   or install/use a code editor that can open .js and .md files.
+3. The actual phone-calling and payment connections are NOT active yet.
+   They require your authorization and service accounts.
+
+FILES
+server.js = the business/API starter
+package.json = Node setup
+.env.example = settings template (no secrets)
+revenue_ledger.csv = revenue tracker
+research_report_template.md = customer report template
+README.md = project instructions
+
+NEXT BUILD STEP
+Connect the AI caller and payment checkout, then run the first prospect test.
